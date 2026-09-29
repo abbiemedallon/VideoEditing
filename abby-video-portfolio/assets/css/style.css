@@ -592,16 +592,6 @@ section { padding: 7rem 9% 5rem; }
     padding: 2rem 0;
 }
 
-.timeline-bs .timeline-line {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 4px;
-    background: var(--main-color);
-    z-index: 0;
-}
 
 .timeline-bs .timeline-item {
     position: relative;
